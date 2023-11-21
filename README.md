@@ -4,7 +4,7 @@ This project explores langchain and llm based apps.
 
 The goal is to create an app that takes user input/context data like PDF's and provides it as context to a LLM. 
 
-This should allow us to integrate data that is not part of the LLM training dataset and also get a more complete experience that fullfills our needs better.
+Langchain is an AI first framework, that enables developers to build context aware reasoning apps by linking LLM's with external data sources for advanced NLP apps.
 
 # Embedding and Vector Databases
 
