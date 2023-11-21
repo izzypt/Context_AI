@@ -10,7 +10,7 @@ Langchain is an AI first framework, that enables developers to build context awa
 
 ### Theory
   
- ![image](https://github.com/izzypt/Legal_AI/assets/73948790/ec397a70-1363-4bc1-a291-cb4ffb5f70d4)
+![image](https://github.com/izzypt/Legal_AI/assets/73948790/55b8cd66-4cff-4b2f-91c6-2bd28819bc8c)
 
 - Starting from the PDF position of the image above:
   - We are going to be taking the PDF's from our user and break them down into chunks of strings
