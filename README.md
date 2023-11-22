@@ -1,4 +1,4 @@
-# Legal_AI
+# AI_Document_Reader
 
 This project explores langchain and llm based apps. 
 
